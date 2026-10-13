@@ -1,0 +1,12 @@
+C:\Data\01_Education\NodeJS\Backend\NeonClub\NeonClub.Shared\bin\Debug\net10.0\NeonClub.Shared.deps.json
+C:\Data\01_Education\NodeJS\Backend\NeonClub\NeonClub.Shared\bin\Debug\net10.0\NeonClub.Shared.dll
+C:\Data\01_Education\NodeJS\Backend\NeonClub\NeonClub.Shared\bin\Debug\net10.0\NeonClub.Shared.pdb
+C:\Data\01_Education\NodeJS\Backend\NeonClub\NeonClub.Shared\obj\Debug\net10.0\NeonClub.Shared.csproj.AssemblyReference.cache
+C:\Data\01_Education\NodeJS\Backend\NeonClub\NeonClub.Shared\obj\Debug\net10.0\NeonClub.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\01_Education\NodeJS\Backend\NeonClub\NeonClub.Shared\obj\Debug\net10.0\NeonClub.Shared.AssemblyInfoInputs.cache
+C:\Data\01_Education\NodeJS\Backend\NeonClub\NeonClub.Shared\obj\Debug\net10.0\NeonClub.Shared.AssemblyInfo.cs
+C:\Data\01_Education\NodeJS\Backend\NeonClub\NeonClub.Shared\obj\Debug\net10.0\NeonClub.Shared.csproj.CoreCompileInputs.cache
+C:\Data\01_Education\NodeJS\Backend\NeonClub\NeonClub.Shared\obj\Debug\net10.0\NeonClub.Shared.dll
+C:\Data\01_Education\NodeJS\Backend\NeonClub\NeonClub.Shared\obj\Debug\net10.0\refint\NeonClub.Shared.dll
+C:\Data\01_Education\NodeJS\Backend\NeonClub\NeonClub.Shared\obj\Debug\net10.0\NeonClub.Shared.pdb
+C:\Data\01_Education\NodeJS\Backend\NeonClub\NeonClub.Shared\obj\Debug\net10.0\ref\NeonClub.Shared.dll

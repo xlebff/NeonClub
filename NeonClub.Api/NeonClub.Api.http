@@ -1,0 +1,6 @@
+@NeonClub.Api_HostAddress = http://localhost:5068
+
+GET {{NeonClub.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
