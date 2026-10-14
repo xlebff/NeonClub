@@ -49,11 +49,6 @@ document.getElementById('loginBtn').addEventListener('click', async () => {
     }
 });
 
-async function tryLoadAll() {
-    await Promise.all([loadUsers(), loadBookings()]);
-    content.classList.remove('hidden');
-}
-
 async function api(path, options = {}) {
     const res = await fetch(`${API}${path}`, {
         ...options,
@@ -170,10 +165,10 @@ async function loadGallery() {
     box.innerHTML = images
         .map(
             (i) => `
-            <figure style="display:inline-block;margin:8px;text-align:center;">
-                <img src="${i.path}" style="width:160px;height:120px;object-fit:cover;border-radius:8px;" />
-                <figcaption style="font-size:12px;color:#999;">${escapeHtml(i.zoneTitle ?? '—')}</figcaption>
-                <button class="danger" data-img-id="${i.id}">Удалить</button>
+            <figure class="gallery__item">
+                <img class="gallery__thumb" src="${i.path}" alt="" />
+                <figcaption class="gallery__caption">${escapeHtml(i.zoneTitle ?? '—')}</figcaption>
+                <button class="btn btn--danger btn--sm" data-img-id="${i.id}">Удалить</button>
             </figure>
         `
         )

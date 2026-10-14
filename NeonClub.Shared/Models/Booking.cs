@@ -3,7 +3,6 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace NeonClub.Shared.Models
 {
-    [Table(nameof(Booking))]
     public class Booking
     {
         [Key]

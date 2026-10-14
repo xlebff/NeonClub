@@ -29,7 +29,7 @@ export default function ProfileBookings() {
             <div className="booking-list">
                 {bookings.map((booking) => (
                     <article className="booking" key={booking.id}>
-                        <span className="booking__emoji">{booking.emoji}</span>
+                        <span className="booking__emoji">{booking.zoneEmoji}</span>
 
                         <div className="booking__info">
                             <span className="booking__title">{booking.zoneTitle}</span>

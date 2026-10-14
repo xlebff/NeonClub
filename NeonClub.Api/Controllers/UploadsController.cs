@@ -9,16 +9,10 @@ namespace NeonClub.Api.Controllers
 {
     [ApiController]
     [Route("api/uploads")]
-    public class UploadsController : ControllerBase
+    public class UploadsController(AppDbContext db, FileStorageService files) : ControllerBase
     {
-        private readonly AppDbContext _db;
-        private readonly FileStorageService _files;
-
-        public UploadsController(AppDbContext db, FileStorageService files)
-        {
-            _db = db;
-            _files = files;
-        }
+        private readonly AppDbContext _db = db;
+        private readonly FileStorageService _files = files;
 
         // POST /api/uploads/zone/{zoneId}   (multipart/form-data, поле "image")
         [HttpPost("zone/{zoneId:guid}")]
@@ -49,6 +43,7 @@ namespace NeonClub.Api.Controllers
 
         // GET /api/uploads   — список всех картинок
         [HttpGet]
+        [Authorize(Roles = "admin")]
         public async Task<IActionResult> GetAll()
         {
             var images = await _db.Images

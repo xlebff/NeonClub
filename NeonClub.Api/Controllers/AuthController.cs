@@ -10,16 +10,10 @@ namespace NeonClub.Api.Controllers
 {
     [ApiController]
     [Route("api/auth")]
-    public class AuthController : ControllerBase
+    public class AuthController(AppDbContext db, JwtService jwt) : ControllerBase
     {
-        private readonly AppDbContext _db;
-        private readonly JwtService _jwt;
-
-        public AuthController(AppDbContext db, JwtService jwt)
-        {
-            _db = db;
-            _jwt = jwt;
-        }
+        private readonly AppDbContext _db = db;
+        private readonly JwtService _jwt = jwt;
 
         [HttpPost("register")]
         public async Task<ActionResult<AuthResponseDto>> Register([FromBody] RegisterDto dto)
@@ -72,6 +66,7 @@ namespace NeonClub.Api.Controllers
         }
 
         [HttpGet("{id:guid}")]
+        [Authorize]
         public async Task<ActionResult<UserResponseDto>> GetById(Guid id)
         {
             var user = await _db.Users.Include(u => u.Role).FirstOrDefaultAsync(u => u.Id == id);

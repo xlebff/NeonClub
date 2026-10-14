@@ -2,154 +2,87 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Neon Club — Админка</title>
-    <style>
-        body {
-            font-family: system-ui, sans-serif;
-            background: #0f0f1a;
-            color: #eaeaf5;
-            margin: 0;
-            padding: 24px;
-        }
-
-        h1, h2 {
-            color: #b47aff;
-        }
-
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 16px 0 32px;
-            background: #1a1a2e;
-            border-radius: 8px;
-            overflow: hidden;
-        }
-
-        th, td {
-            padding: 10px 14px;
-            text-align: left;
-            border-bottom: 1px solid #2a2a44;
-            font-size: 14px;
-        }
-
-        th {
-            background: #24243e;
-            color: #b47aff;
-            text-transform: uppercase;
-            font-size: 12px;
-            letter-spacing: 0.5px;
-        }
-
-        tr:hover {
-            background: #22223a;
-        }
-
-        button {
-            background: #b47aff;
-            color: #0f0f1a;
-            border: none;
-            padding: 6px 12px;
-            border-radius: 6px;
-            cursor: pointer;
-            font-weight: 600;
-        }
-
-            button.danger {
-                background: #ff5577;
-            }
-
-            button:hover {
-                filter: brightness(1.1);
-            }
-
-        input, select {
-            background: #1a1a2e;
-            color: #eaeaf5;
-            border: 1px solid #333;
-            padding: 8px 12px;
-            border-radius: 6px;
-            font-size: 14px;
-        }
-
-        .bar {
-            display: flex;
-            gap: 12px;
-            align-items: center;
-            margin-bottom: 24px;
-            padding: 16px;
-            background: #1a1a2e;
-            border-radius: 8px;
-        }
-
-        .badge {
-            padding: 3px 8px;
-            border-radius: 10px;
-            font-size: 12px;
-            font-weight: 600;
-        }
-
-        .badge--новый {
-            background: #ffcc44;
-            color: #000;
-        }
-
-        .badge--подтверждён {
-            background: #44dd88;
-            color: #000;
-        }
-
-        .badge--отменён {
-            background: #ff5577;
-            color: #fff;
-        }
-
-        .hidden {
-            display: none;
-        }
-
-        .error {
-            color: #ff5577;
-            margin-left: 12px;
-        }
-    </style>
+    <link rel="stylesheet" href="admin.css" />
 </head>
 <body>
-    <h1>Neon Club — Админ-панель</h1>
+    <div class="container">
+        <header class="admin-header">
+            <h1 class="admin-header__title">Neon<em>Club</em> · Admin</h1>
+            <span class="admin-header__badge">● Панель управления</span>
+        </header>
 
-    <div class="bar">
-        <input id="emailInput" type="email" placeholder="admin@neon.club" />
-        <input id="passInput" type="password" placeholder="Пароль" />
-        <button id="loginBtn">Войти</button>
-        <span id="keyError" class="error"></span>
-    </div>
-
-    <div id="content" class="hidden">
-        <h2>Пользователи</h2>
-        <table id="usersTable">
-            <thead>
-                <tr><th>Имя</th><th>Email</th><th>Роль</th><th>Броней</th><th>Создан</th><th>Действие</th></tr>
-            </thead>
-            <tbody></tbody>
-        </table>
-
-        <h2>Брони</h2>
-        <table id="bookingsTable">
-            <thead>
-                <tr><th>Зона</th><th>Пользователь</th><th>Часов</th><th>Сумма</th><th>Статус</th><th>Создана</th><th>Действие</th></tr>
-            </thead>
-            <tbody></tbody>
-        </table>
-
-        <h2>Загрузка изображения для зоны</h2>
-        <div class="bar">
-            <select id="zoneSelect"></select>
-            <input type="file" id="fileInput" accept="image/*" />
-            <button id="uploadBtn">Загрузить</button>
-            <span id="uploadStatus" class="error"></span>
+        <div class="login-bar">
+            <input id="emailInput" type="email" placeholder="admin@neon.club" />
+            <input id="passInput" type="password" placeholder="Пароль" />
+            <button id="loginBtn" class="btn btn--primary">Войти</button>
+            <span id="keyError" class="error"></span>
         </div>
 
-        <h2>Галерея</h2>
-        <div id="gallery"></div>
+        <div id="content" class="hidden">
+            <section class="admin-section">
+                <div class="admin-section__head">
+                    <h2 class="admin-section__title">Пользователи</h2>
+                </div>
+                <div class="table-wrap">
+                    <table id="usersTable">
+                        <thead>
+                            <tr>
+                                <th>Имя</th>
+                                <th>Email</th>
+                                <th>Роль</th>
+                                <th>Броней</th>
+                                <th>Создан</th>
+                                <th>Действие</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </section>
+
+            <section class="admin-section">
+                <div class="admin-section__head">
+                    <h2 class="admin-section__title">Брони</h2>
+                </div>
+                <div class="table-wrap">
+                    <table id="bookingsTable">
+                        <thead>
+                            <tr>
+                                <th>Зона</th>
+                                <th>Пользователь</th>
+                                <th>Часов</th>
+                                <th>Сумма</th>
+                                <th>Статус</th>
+                                <th>Создана</th>
+                                <th>Действие</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </section>
+
+            <section class="admin-section">
+                <div class="admin-section__head">
+                    <h2 class="admin-section__title">Загрузка изображения</h2>
+                </div>
+                <div class="upload-bar">
+                    <select id="zoneSelect"></select>
+                    <input type="file" id="fileInput" accept="image/*" />
+                    <button id="uploadBtn" class="btn btn--primary btn--sm">Загрузить</button>
+                    <span id="uploadStatus" class="error"></span>
+                </div>
+            </section>
+
+            <section class="admin-section">
+                <div class="admin-section__head">
+                    <h2 class="admin-section__title">Галерея</h2>
+                </div>
+                <div id="gallery" class="gallery"></div>
+            </section>
+        </div>
     </div>
 
     <script src="admin.js"></script>

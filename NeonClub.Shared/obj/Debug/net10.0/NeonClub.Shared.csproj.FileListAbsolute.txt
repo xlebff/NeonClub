@@ -10,3 +10,4 @@ C:\Data\01_Education\NodeJS\Backend\NeonClub\NeonClub.Shared\obj\Debug\net10.0\N
 C:\Data\01_Education\NodeJS\Backend\NeonClub\NeonClub.Shared\obj\Debug\net10.0\refint\NeonClub.Shared.dll
 C:\Data\01_Education\NodeJS\Backend\NeonClub\NeonClub.Shared\obj\Debug\net10.0\NeonClub.Shared.pdb
 C:\Data\01_Education\NodeJS\Backend\NeonClub\NeonClub.Shared\obj\Debug\net10.0\ref\NeonClub.Shared.dll
+C:\Data\01_Education\NodeJS\Backend\NeonClub\NeonClub.Shared\obj\Debug\net10.0\NeonClub.Shared.sourcelink.json

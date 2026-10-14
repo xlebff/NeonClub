@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NeonClub.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2e9a509d605c339c36569d0f8bcc913c97f5a46")]
 [assembly: System.Reflection.AssemblyProductAttribute("NeonClub.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NeonClub.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
