@@ -1,0 +1,55 @@
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: neonclub
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-1182}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d neonclub"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+    # Порт наружу нужен только для отладки, в продакшене можно убрать
+    ports:
+      - "5432:5432"
+
+  api:
+    build:
+      context: .
+      dockerfile: NeonClub.Api/Dockerfile
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      ASPNETCORE_ENVIRONMENT: Production
+      ConnectionStrings__DefaultConnection: >-
+        Host=db;Port=5432;Database=neonclub;Username=postgres;Password=${DB_PASSWORD:-1182}
+      Jwt__Key: ${JWT_KEY:-SUPER_SECRET_KEY_MIN_32_CHARS_LONG_PLEASE_CHANGE_ME_2026}
+      Jwt__Issuer: neon-club
+      Jwt__Audience: neon-club-client
+      Jwt__ExpiryMinutes: "1440"
+      # CORS: домен фронтенда
+      Cors__Origins: ${CORS_ORIGINS:-http://localhost}
+    volumes:
+      - uploads:/app/uploads
+    ports:
+      - "8080:8080"
+
+  web:
+    build:
+      context: ./neon-club-frontend
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    depends_on:
+      - api
+    ports:
+      - "80:80"
+
+volumes:
+  pgdata:
+  uploads:

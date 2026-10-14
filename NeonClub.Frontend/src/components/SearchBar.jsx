@@ -1,7 +1,7 @@
 export default function SearchBar({ value, onChange, placeholder = 'Поиск...' }) {
     return (
         <div className="search">
-            <span className="search__icon">🔍</span>
+            <span className="search__icon">[?]</span>
             <input
                 className="search__input"
                 type="text"

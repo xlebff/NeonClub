@@ -19,15 +19,15 @@ namespace NeonClub.Api
             builder.Services.AddDbContext<AppDbContext>(options =>
                 options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
+            var corsOrigins = builder.Configuration["Cors:Origins"]?.Split(',')
+                ?? ["http://localhost:5173", "http://localhost:3000"];
+
             builder.Services.AddCors(options =>
             {
                 options.AddPolicy(CorsPolicy, policy =>
                 {
                     policy
-                        .WithOrigins(
-                            "http://localhost:5173",
-                            "http://localhost:3000"
-                        )
+                        .WithOrigins(corsOrigins)
                         .AllowAnyHeader()
                         .AllowAnyMethod();
                 });

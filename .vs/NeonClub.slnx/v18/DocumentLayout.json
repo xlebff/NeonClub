@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.api\\wwwroot\\admin\\admin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|solutionrelative:neonclub.api\\wwwroot\\admin\\admin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{6454E29B-A919-CBFB-9328-D99B3046B54F}|NeonClub.Frontend\\neonclub.frontend.esproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.frontend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6454E29B-A919-CBFB-9328-D99B3046B54F}|NeonClub.Frontend\\neonclub.frontend.esproj|solutionrelative:neonclub.frontend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.api\\wwwroot\\admin\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|solutionrelative:neonclub.api\\wwwroot\\admin\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6454E29B-A919-CBFB-9328-D99B3046B54F}|NeonClub.Frontend\\neonclub.frontend.esproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.frontend\\nginx.conf||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6454E29B-A919-CBFB-9328-D99B3046B54F}|NeonClub.Frontend\\neonclub.frontend.esproj|solutionrelative:neonclub.frontend\\nginx.conf||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|solutionrelative:neonclub.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|solutionrelative:neonclub.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.api\\wwwroot\\admin\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|solutionrelative:neonclub.api\\wwwroot\\admin\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|solutionrelative:neonclub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|solutionrelative:neonclub.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,54 +43,87 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "admin.js",
-              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\wwwroot\\admin\\admin.js",
-              "RelativeDocumentMoniker": "NeonClub.Api\\wwwroot\\admin\\admin.js",
-              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\wwwroot\\admin\\admin.js",
-              "RelativeToolTip": "NeonClub.Api\\wwwroot\\admin\\admin.js",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAmwLIAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-10-14T04:01:48.069Z",
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Frontend\\Dockerfile",
+              "RelativeDocumentMoniker": "NeonClub.Frontend\\Dockerfile",
+              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Frontend\\Dockerfile",
+              "RelativeToolTip": "NeonClub.Frontend\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-14T13:12:05.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\wwwroot\\admin\\index.html",
-              "RelativeDocumentMoniker": "NeonClub.Api\\wwwroot\\admin\\index.html",
-              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\wwwroot\\admin\\index.html",
-              "RelativeToolTip": "NeonClub.Api\\wwwroot\\admin\\index.html",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAwFkAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-10-14T03:58:54.82Z",
-              "EditorCaption": ""
+              "Title": "nginx.conf",
+              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Frontend\\nginx.conf",
+              "RelativeDocumentMoniker": "NeonClub.Frontend\\nginx.conf",
+              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Frontend\\nginx.conf",
+              "RelativeToolTip": "NeonClub.Frontend\\nginx.conf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-14T13:11:44.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "admin.css",
-              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\wwwroot\\admin\\admin.css",
-              "RelativeDocumentMoniker": "NeonClub.Api\\wwwroot\\admin\\admin.css",
-              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\wwwroot\\admin\\admin.css",
-              "RelativeToolTip": "NeonClub.Api\\wwwroot\\admin\\admin.css",
-              "ViewState": "AgIAAJ8BAAAAAAAAAAAAwL0BAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-10-14T03:59:12.743Z",
-              "EditorCaption": ""
+              "DocumentIndex": 5,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwDYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-10-14T13:11:25.982Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "NeonClub.Api\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "NeonClub.Api\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAkwEQAAAATAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "NeonClub.Api\\appsettings.json",
+              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\appsettings.json",
+              "RelativeToolTip": "NeonClub.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-14T13:10:53.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\Program.cs",
+              "RelativeDocumentMoniker": "NeonClub.Api\\Program.cs",
+              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\Program.cs",
+              "RelativeToolTip": "NeonClub.Api\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T03:57:21.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T13:09:36.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-14T13:08:54.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "NeonClub.Api\\Dockerfile",
+              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\Dockerfile",
+              "RelativeToolTip": "NeonClub.Api\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-14T13:08:04.173Z"
             }
           ]
         }

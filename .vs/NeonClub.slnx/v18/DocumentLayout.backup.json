@@ -3,68 +3,32 @@
   "WorkspaceRootPath": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6454E29B-A919-CBFB-9328-D99B3046B54F}|NeonClub.Frontend\\neonclub.frontend.esproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.frontend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6454E29B-A919-CBFB-9328-D99B3046B54F}|NeonClub.Frontend\\neonclub.frontend.esproj|solutionrelative:neonclub.frontend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6454E29B-A919-CBFB-9328-D99B3046B54F}|NeonClub.Frontend\\neonclub.frontend.esproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.frontend\\nginx.conf||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6454E29B-A919-CBFB-9328-D99B3046B54F}|NeonClub.Frontend\\neonclub.frontend.esproj|solutionrelative:neonclub.frontend\\nginx.conf||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F590F6F-5E5B-40AD-932D-325855A51B14}|Solution Items{0F590F6F-5E5B-40AD-932D-325855A51B14}|C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{0F590F6F-5E5B-40AD-932D-325855A51B14}|Solution Items{0F590F6F-5E5B-40AD-932D-325855A51B14}|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|solutionrelative:neonclub.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{548E3C88-7CAE-7523-0106-7893A639379E}|NeonClub.Shared\\NeonClub.Shared.csproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.shared\\models\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{548E3C88-7CAE-7523-0106-7893A639379E}|NeonClub.Shared\\NeonClub.Shared.csproj|solutionrelative:neonclub.shared\\models\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|solutionrelative:neonclub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{548E3C88-7CAE-7523-0106-7893A639379E}|NeonClub.Shared\\NeonClub.Shared.csproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.shared\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{548E3C88-7CAE-7523-0106-7893A639379E}|NeonClub.Shared\\NeonClub.Shared.csproj|solutionrelative:neonclub.shared\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F590F6F-5E5B-40AD-932D-325855A51B14}|Solution Items{0F590F6F-5E5B-40AD-932D-325855A51B14}|C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0F590F6F-5E5B-40AD-932D-325855A51B14}|Solution Items{0F590F6F-5E5B-40AD-932D-325855A51B14}|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{548E3C88-7CAE-7523-0106-7893A639379E}|NeonClub.Shared\\NeonClub.Shared.csproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.shared\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{548E3C88-7CAE-7523-0106-7893A639379E}|NeonClub.Shared\\NeonClub.Shared.csproj|solutionrelative:neonclub.shared\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{548E3C88-7CAE-7523-0106-7893A639379E}|NeonClub.Shared\\NeonClub.Shared.csproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.shared\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{548E3C88-7CAE-7523-0106-7893A639379E}|NeonClub.Shared\\NeonClub.Shared.csproj|solutionrelative:neonclub.shared\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{548E3C88-7CAE-7523-0106-7893A639379E}|NeonClub.Shared\\NeonClub.Shared.csproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.shared\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{548E3C88-7CAE-7523-0106-7893A639379E}|NeonClub.Shared\\NeonClub.Shared.csproj|solutionrelative:neonclub.shared\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{548E3C88-7CAE-7523-0106-7893A639379E}|NeonClub.Shared\\NeonClub.Shared.csproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.shared\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{548E3C88-7CAE-7523-0106-7893A639379E}|NeonClub.Shared\\NeonClub.Shared.csproj|solutionrelative:neonclub.shared\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.api\\controllers\\uploadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|solutionrelative:neonclub.api\\controllers\\uploadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.api\\wwwroot\\admin\\admin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|solutionrelative:neonclub.api\\wwwroot\\admin\\admin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6454E29B-A919-CBFB-9328-D99B3046B54F}|NeonClub.Frontend\\neonclub.frontend.esproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.frontend\\src\\pages\\profilebookings.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{6454E29B-A919-CBFB-9328-D99B3046B54F}|NeonClub.Frontend\\neonclub.frontend.esproj|solutionrelative:neonclub.frontend\\src\\pages\\profilebookings.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6454E29B-A919-CBFB-9328-D99B3046B54F}|NeonClub.Frontend\\neonclub.frontend.esproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.frontend\\src\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{6454E29B-A919-CBFB-9328-D99B3046B54F}|NeonClub.Frontend\\neonclub.frontend.esproj|solutionrelative:neonclub.frontend\\src\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6454E29B-A919-CBFB-9328-D99B3046B54F}|NeonClub.Frontend\\neonclub.frontend.esproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.frontend\\src\\pages\\zonepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{6454E29B-A919-CBFB-9328-D99B3046B54F}|NeonClub.Frontend\\neonclub.frontend.esproj|solutionrelative:neonclub.frontend\\src\\pages\\zonepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6454E29B-A919-CBFB-9328-D99B3046B54F}|NeonClub.Frontend\\neonclub.frontend.esproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.frontend\\src\\components\\zonecard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{6454E29B-A919-CBFB-9328-D99B3046B54F}|NeonClub.Frontend\\neonclub.frontend.esproj|solutionrelative:neonclub.frontend\\src\\components\\zonecard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6454E29B-A919-CBFB-9328-D99B3046B54F}|NeonClub.Frontend\\neonclub.frontend.esproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.frontend\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6454E29B-A919-CBFB-9328-D99B3046B54F}|NeonClub.Frontend\\neonclub.frontend.esproj|solutionrelative:neonclub.frontend\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.api\\controllers\\zonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|solutionrelative:neonclub.api\\controllers\\zonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{548E3C88-7CAE-7523-0106-7893A639379E}|NeonClub.Shared\\NeonClub.Shared.csproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.shared\\constracts\\zonedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{548E3C88-7CAE-7523-0106-7893A639379E}|NeonClub.Shared\\NeonClub.Shared.csproj|solutionrelative:neonclub.shared\\constracts\\zonedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|c:\\data\\01_education\\nodejs\\backend\\neonclub\\neonclub.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9D5156A7-662B-1864-20D7-6ADA64B9498F}|NeonClub.Api\\NeonClub.Api.csproj|solutionrelative:neonclub.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -79,205 +43,93 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "NeonClub.Api\\appsettings.json",
-              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\appsettings.json",
-              "RelativeToolTip": "NeonClub.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-14T03:55:21.702Z",
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Frontend\\Dockerfile",
+              "RelativeDocumentMoniker": "NeonClub.Frontend\\Dockerfile",
+              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Frontend\\Dockerfile",
+              "RelativeToolTip": "NeonClub.Frontend\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-14T13:12:05.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Zone.cs",
-              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Shared\\Models\\Zone.cs",
-              "RelativeDocumentMoniker": "NeonClub.Shared\\Models\\Zone.cs",
-              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Shared\\Models\\Zone.cs",
-              "RelativeToolTip": "NeonClub.Shared\\Models\\Zone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T03:54:55.848Z",
+              "Title": "nginx.conf",
+              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Frontend\\nginx.conf",
+              "RelativeDocumentMoniker": "NeonClub.Frontend\\nginx.conf",
+              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Frontend\\nginx.conf",
+              "RelativeToolTip": "NeonClub.Frontend\\nginx.conf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-14T13:11:44.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Shared\\Models\\User.cs",
-              "RelativeDocumentMoniker": "NeonClub.Shared\\Models\\User.cs",
-              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Shared\\Models\\User.cs",
-              "RelativeToolTip": "NeonClub.Shared\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T03:54:52.621Z",
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwDYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-10-14T13:11:25.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Status.cs",
-              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Shared\\Models\\Status.cs",
-              "RelativeDocumentMoniker": "NeonClub.Shared\\Models\\Status.cs",
-              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Shared\\Models\\Status.cs",
-              "RelativeToolTip": "NeonClub.Shared\\Models\\Status.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T03:54:49.883Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "NeonClub.Api\\appsettings.json",
+              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\appsettings.json",
+              "RelativeToolTip": "NeonClub.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-14T13:10:53.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Shared\\Models\\Role.cs",
-              "RelativeDocumentMoniker": "NeonClub.Shared\\Models\\Role.cs",
-              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Shared\\Models\\Role.cs",
-              "RelativeToolTip": "NeonClub.Shared\\Models\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\Program.cs",
+              "RelativeDocumentMoniker": "NeonClub.Api\\Program.cs",
+              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\Program.cs",
+              "RelativeToolTip": "NeonClub.Api\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T03:54:46.984Z",
+              "WhenOpened": "2026-10-14T13:09:36.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Image.cs",
-              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Shared\\Models\\Image.cs",
-              "RelativeDocumentMoniker": "NeonClub.Shared\\Models\\Image.cs",
-              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Shared\\Models\\Image.cs",
-              "RelativeToolTip": "NeonClub.Shared\\Models\\Image.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T03:54:43.507Z",
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-14T13:08:54.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Booking.cs",
-              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Shared\\Models\\Booking.cs",
-              "RelativeDocumentMoniker": "NeonClub.Shared\\Models\\Booking.cs",
-              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Shared\\Models\\Booking.cs",
-              "RelativeToolTip": "NeonClub.Shared\\Models\\Booking.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T03:54:39.505Z",
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "NeonClub.Api\\Dockerfile",
+              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\Dockerfile",
+              "RelativeToolTip": "NeonClub.Api\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-14T13:08:04.173Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UploadsController.cs",
-              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\Controllers\\UploadsController.cs",
-              "RelativeDocumentMoniker": "NeonClub.Api\\Controllers\\UploadsController.cs",
-              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\Controllers\\UploadsController.cs",
-              "RelativeToolTip": "NeonClub.Api\\Controllers\\UploadsController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwC0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T03:52:57.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "admin.js",
-              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\wwwroot\\admin\\admin.js",
-              "RelativeDocumentMoniker": "NeonClub.Api\\wwwroot\\admin\\admin.js",
-              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\wwwroot\\admin\\admin.js",
-              "RelativeToolTip": "NeonClub.Api\\wwwroot\\admin\\admin.js",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAmwDEAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-10-14T03:51:51.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProfileBookings.jsx",
-              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Frontend\\src\\pages\\ProfileBookings.jsx",
-              "RelativeDocumentMoniker": "NeonClub.Frontend\\src\\pages\\ProfileBookings.jsx",
-              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Frontend\\src\\pages\\ProfileBookings.jsx",
-              "RelativeToolTip": "NeonClub.Frontend\\src\\pages\\ProfileBookings.jsx",
-              "ViewState": "AgIAABAAAAAAAAAAAAAmwCMAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-10-14T03:51:19.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "api.js",
-              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Frontend\\src\\api.js",
-              "RelativeDocumentMoniker": "NeonClub.Frontend\\src\\api.js",
-              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Frontend\\src\\api.js",
-              "RelativeToolTip": "NeonClub.Frontend\\src\\api.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-10-12T06:20:24.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ZonePage.jsx",
-              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Frontend\\src\\pages\\ZonePage.jsx",
-              "RelativeDocumentMoniker": "NeonClub.Frontend\\src\\pages\\ZonePage.jsx",
-              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Frontend\\src\\pages\\ZonePage.jsx",
-              "RelativeToolTip": "NeonClub.Frontend\\src\\pages\\ZonePage.jsx",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAAwAcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-10-12T06:14:48.87Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "index.css",
-              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Frontend\\src\\index.css",
-              "RelativeDocumentMoniker": "NeonClub.Frontend\\src\\index.css",
-              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Frontend\\src\\index.css",
-              "RelativeToolTip": "NeonClub.Frontend\\src\\index.css",
-              "ViewState": "AgIAAFgBAAAAAAAAAAAqwGcBAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-10-12T06:14:20.353Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ZoneCard.jsx",
-              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Frontend\\src\\components\\ZoneCard.jsx",
-              "RelativeDocumentMoniker": "NeonClub.Frontend\\src\\components\\ZoneCard.jsx",
-              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Frontend\\src\\components\\ZoneCard.jsx",
-              "RelativeToolTip": "NeonClub.Frontend\\src\\components\\ZoneCard.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-10-12T06:13:36.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ZonesController.cs",
-              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\Controllers\\ZonesController.cs",
-              "RelativeDocumentMoniker": "NeonClub.Api\\Controllers\\ZonesController.cs",
-              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Api\\Controllers\\ZonesController.cs",
-              "RelativeToolTip": "NeonClub.Api\\Controllers\\ZonesController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowEgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T06:13:10.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ZoneDtos.cs",
-              "DocumentMoniker": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Shared\\Constracts\\ZoneDtos.cs",
-              "RelativeDocumentMoniker": "NeonClub.Shared\\Constracts\\ZoneDtos.cs",
-              "ToolTip": "C:\\Data\\01_Education\\NodeJS\\Backend\\NeonClub\\NeonClub.Shared\\Constracts\\ZoneDtos.cs",
-              "RelativeToolTip": "NeonClub.Shared\\Constracts\\ZoneDtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T06:12:54.793Z"
             }
           ]
         }
